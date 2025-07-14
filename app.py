@@ -11,5 +11,5 @@ def main():
 
     #classifica a img
 
-    if __name__ == "__main__":
-        main()
+if __name__ == "__main__":
+    main()

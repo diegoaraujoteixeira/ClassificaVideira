@@ -4,7 +4,7 @@ def main():
     st.set_page_config(
         page_title="Classifica Folha de Videiras"
     )
-    st.write("#Classifica Folha de Videiras")
+    st.write("# Classifica Folha de Videiras")
     #carrega modelo
 
     #carrega a img
